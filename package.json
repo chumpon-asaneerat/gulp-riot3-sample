@@ -13,9 +13,9 @@
   "author": "Chumpon Asaneerat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chumpon-asaneerat/gulp-riot3-sample-template/issues"
+    "url": "https://github.com/chumpon-asaneerat/gulp-riot3-sample/issues"
   },
-  "homepage": "https://github.com/chumpon-asaneerat/gulp-riot3-sample-template#readme",
+  "homepage": "https://github.com/chumpon-asaneerat/gulp-riot3-sample#readme",
   "devDependencies": {
     "@types/dot": "^1.1.3",
     "@types/gulp": "^4.0.6",
